@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Day_72
+comment0.text=\ Leetcode\ Problem\ 1920\ Build\ Array\ from\ Permutation\r\n\ Given\ a\ zero-based\ permutation\ nums\ (0-indexed),\ build\ an\ array\ ans\ of\ the\ same\ length\ where\ ans[i]\ \=\ nums[nums[i]]\ for\ each\ 0\ <\=\ i\ <\ nums.length\ and\ return\ it.\r\n\r\nA\ zero-based\ permutation\ nums\ is\ an\ array\ of\ distinct\ integers\ from\ 0\ to\ nums.length\ -\ 1\ (inclusive).\r\n
+comment1.params=arr
+comment1.target=int[]\ buildArray(int[])
+numComments=2

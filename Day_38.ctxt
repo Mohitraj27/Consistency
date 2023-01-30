@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Day_38
+comment1.params=N
+comment1.target=int\ sum_of_digits(int)
+comment2.params=N
+comment2.target=int\ PrimeFactors(int)
+comment3.params=k
+comment3.target=boolean\ isPrime(int)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

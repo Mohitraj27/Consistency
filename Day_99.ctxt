@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Day_99
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ calculateBMI()
+comment3.params=bmi
+comment3.target=void\ printBMICategory(float)
+numComments=4

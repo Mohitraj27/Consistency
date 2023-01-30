@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Day_56
+comment1.params=num1\ num2
+comment1.target=int\ sum(int,\ int)
+numComments=2

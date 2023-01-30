@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Day_65
+comment0.text=\ Leetcode\ Problem\ 14\r\nWrite\ a\ function\ to\ find\ the\ longest\ common\ prefix\ string\ amongst\ an\ array\ of\ strings.\r\nIf\ there\ is\ no\ common\ prefix,\ return\ an\ empty\ string\ "".\r\n
+comment1.params=strs
+comment1.target=java.lang.String\ longestCommonPrefix(java.lang.String[])
+numComments=2

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Day_63
+comment0.text=\ Leetcode\ Problem\ 43.\ Multiply\ Strings\r\n\ Given\ two\ non-negative\ integers\ num1\ and\ num2\ represented\ as\ strings,\ return\ the\ product\ of\ num1\ and\ num2,\ also\ represented\ as\ a\ string.\r\n\r\nNote\:\ You\ must\ not\ use\ any\ built-in\ BigInteger\ library\ or\ convert\ the\ inputs\ to\ integer\ directly.\r\n
+comment1.params=num1\ num2
+comment1.target=java.lang.String\ multiply(java.lang.String,\ java.lang.String)
+numComments=2

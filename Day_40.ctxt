@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Day_40
+comment1.params=isbn
+comment1.target=boolean\ isISBN(java.lang.String)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3

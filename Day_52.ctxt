@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Day_52
+comment0.text=\r\nLeetcode\ Problem\ 342.\ Power\ of\ Four\ \r\nProblem\ Statement\ Given\ an\ integer\ n,\ return\ true\ if\ it\ is\ a\ power\ of\ four.\ Otherwise,\ return\ false.\r\n\r\nAn\ integer\ n\ is\ a\ power\ of\ four,\ if\ there\ exists\ an\ integer\ x\ such\ that\ n\ \=\=\ 4x.\r\n
+comment1.params=n
+comment1.target=boolean\ isPowerOfFour(int)
+numComments=2

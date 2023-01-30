@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Day_51
+comment0.text=\ Leetcode\ Problem\ 867\r\n\ Problem\ Statement\ Transpose\ of\ a\ Matrix\r\n\ Given\ a\ 2D\ integer\ array\ matrix,\ return\ the\ transpose\ of\ matrix.\r\n\r\nThe\ transpose\ of\ a\ matrix\ is\ the\ matrix\ flipped\ over\ its\ main\ diagonal,\ switching\ the\ matrix's\ row\ and\ column\ indices.\r\n\r\n
+comment1.params=a
+comment1.target=int[][]\ transpose(int[][])
+numComments=2
