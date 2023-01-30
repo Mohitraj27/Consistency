@@ -1,6 +1,0 @@
-#BlueJ class context
-comment0.target=Day_59
-comment0.text=\r\n\ Problem\ Statement\ You\ are\ given\ an\ integer\ n\ and\ an\ integer\ start.\r\n\r\nDefine\ an\ array\ nums\ where\ nums[i]\ \=\ start\ +\ 2\ *\ i\ (0-indexed)\ and\ n\ \=\=\ nums.length.\r\n\r\nReturn\ the\ bitwise\ XOR\ of\ all\ elements\ of\ nums.\r\n
-comment1.params=n\ start
-comment1.target=int\ XOR_operation(int,\ int)
-numComments=2

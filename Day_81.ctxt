@@ -1,6 +1,0 @@
-#BlueJ class context
-comment0.target=Day_81
-comment0.text=\r\nYou\ are\ given\ a\ positive\ integer\ num\ consisting\ only\ of\ digits\ 6\ and\ 9.\r\n\r\nReturn\ the\ maximum\ number\ you\ can\ get\ by\ changing\ at\ most\ one\ digit\ (6\ becomes\ 9,\ and\ 9\ becomes\ 6).\r\n\r\n\ \r\n
-comment1.params=num
-comment1.target=int\ maximum69Number(int)
-numComments=2

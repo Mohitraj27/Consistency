@@ -1,6 +1,0 @@
-#BlueJ class context
-comment0.target=Day_54
-comment0.text=\ Leetcode\ Problem\ \ 1512.\ Number\ of\ Good\ Pairs\r\n\ Given\ an\ array\ of\ integers\ nums,\ return\ the\ number\ of\ good\ pairs.\r\n\r\nA\ pair\ (i,\ j)\ is\ called\ good\ if\ nums[i]\ \=\=\ nums[j]\ and\ i\ <\ j.\r\n
-comment1.params=nums
-comment1.target=int\ numIdenticalPairs(int[])
-numComments=2

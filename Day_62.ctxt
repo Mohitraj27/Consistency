@@ -1,6 +1,0 @@
-#BlueJ class context
-comment0.target=Day_62
-comment0.text=Given\ the\ array\ nums\ consisting\ of\ 2n\ elements\ in\ the\ form\ [x1,x2,...,xn,y1,y2,...,yn].\r\n\r\nReturn\ the\ array\ in\ the\ form\ [x1,y1,x2,y2,...,xn,yn].\r\n\r\n
-comment1.params=nums\ n
-comment1.target=int[]\ shuffle(int[],\ int)
-numComments=2

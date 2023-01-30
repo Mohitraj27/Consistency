@@ -1,9 +1,0 @@
-#BlueJ class context
-comment0.target=Day_193
-comment1.params=
-comment1.target=Day_193()
-comment2.params=x
-comment2.target=Day_193(int)
-comment3.params=args
-comment3.target=void\ main(java.lang.String[])
-numComments=4

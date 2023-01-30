@@ -1,9 +1,0 @@
-#BlueJ class context
-comment0.target=Day_39
-comment1.params=x
-comment1.target=int\ reverse(int)
-comment2.params=N
-comment2.target=boolean\ IsDuck(int)
-comment3.params=args
-comment3.target=void\ main(java.lang.String[])
-numComments=4

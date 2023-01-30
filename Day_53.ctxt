@@ -1,6 +1,0 @@
-#BlueJ class context
-comment0.target=Day_53
-comment0.text=\ Leetcode\ Problem\ No\ 326.\ \r\n\ Problem\ Statement\ Power\ of\ Three\ \ \r\n\ Given\ an\ integer\ n,\ return\ true\ if\ it\ is\ a\ power\ of\ three.\ Otherwise,\ return\ false.\r\n\r\nAn\ integer\ n\ is\ a\ power\ of\ three,\ if\ there\ exists\ an\ integer\ x\ such\ that\ n\ \=\=\ 3x.\r\n
-comment1.params=n
-comment1.target=boolean\ isPowerOfThree(int)
-numComments=2

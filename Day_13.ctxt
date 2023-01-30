@@ -1,7 +1,0 @@
-#BlueJ class context
-comment0.target=Day_13
-comment1.params=num
-comment1.target=boolean\ isHappy(int)
-comment2.params=args
-comment2.target=void\ main(java.lang.String[])
-numComments=3

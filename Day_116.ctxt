@@ -1,9 +1,0 @@
-#BlueJ class context
-comment0.target=Day_116
-comment1.params=args
-comment1.target=void\ main(java.lang.String[])
-comment2.params=strArr
-comment2.target=java.lang.String\ getLongestCommonPrefix(java.lang.String[])
-comment3.params=strArr
-comment3.target=java.lang.String\ getMinString(java.lang.String[])
-numComments=4

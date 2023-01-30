@@ -1,6 +1,0 @@
-#BlueJ class context
-comment0.target=Day_49
-comment0.text=\ Leetcode\ Problem\ 35.\ Search\ Insert\ Position\r\n\ \r\n\ Given\ a\ sorted\ array\ of\ distinct\ integers\ and\ a\ target\ value,\ return\ the\ index\ if\ the\ target\ is\ found.\ If\ not,\ return\ the\ index\ where\ it\ would\ be\ if\ it\ were\ inserted\ in\ order.\r\n\r\nYou\ must\ write\ an\ algorithm\ with\ O(log\ n)\ runtime\ complexity.\r\n
-comment1.params=nums\ target
-comment1.target=int\ searchInsert(int[],\ int)
-numComments=2

@@ -1,6 +1,0 @@
-#BlueJ class context
-comment0.target=Day_58
-comment0.text=Given\ an\ integer\ num,\ return\ the\ number\ of\ steps\ to\ reduce\ it\ to\ zero.\r\n\r\nIn\ one\ step,\ if\ the\ current\ number\ is\ even,\ you\ have\ to\ divide\ it\ by\ 2,\ otherwise,\ you\ have\ to\ subtract\ 1\ from\ it.\r\n
-comment1.params=num
-comment1.target=int\ no_of_steps(int)
-numComments=2

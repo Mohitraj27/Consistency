@@ -1,6 +1,0 @@
-#BlueJ class context
-comment0.target=Day_48
-comment0.text=\ Problem\ 58\ Length\ of\ Last\ Word\r\n\ Given\ a\ string\ s\ consisting\ of\ words\ and\ spaces,\ return\ the\ length\ of\ the\ last\ word\ in\ the\ string.\r\n\r\nA\ word\ is\ a\ maximal\ substring\ consisting\ of\ non-space\ characters\ only.\r\n
-comment1.params=s
-comment1.target=int\ lengthOfLastWord(java.lang.String)
-numComments=2

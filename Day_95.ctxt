@@ -1,7 +1,0 @@
-#BlueJ class context
-comment0.target=Day_95
-comment1.params=args
-comment1.target=void\ main(java.lang.String[])
-comment2.params=str1
-comment2.target=int\ length_Of_last_word(java.lang.String)
-numComments=3

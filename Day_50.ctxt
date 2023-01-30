@@ -1,6 +1,0 @@
-#BlueJ class context
-comment0.target=Day_50
-comment0.text=\ Problem\ Statement\ \ Concatenation\ of\ Array\r\nGiven\ an\ integer\ array\ nums\ of\ length\ n,\ you\ want\ to\ create\ an\ array\ ans\ of\ length\ 2n\ where\ ans[i]\ \=\=\ nums[i]\ and\ ans[i\ +\ n]\ \=\=\ nums[i]\ for\ 0\ <\=\ i\ <\ n\ (0-indexed).\r\n\r\nSpecifically,\ ans\ is\ the\ concatenation\ of\ two\ nums\ arrays.\r\n\r\nReturn\ the\ array\ ans.\r\n
-comment1.params=nums
-comment1.target=int[]\ getConcatenation(int[])
-numComments=2
