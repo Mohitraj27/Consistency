@@ -8,8 +8,9 @@ class Solution {
             // res string variable is intilalized with empty space and it
             // is compared with s 
             res+=words[i];
-            if(res.equals(s))
-            {
+           // if(res.startsWith(s))
+  if(res.equals(s))
+      {
                 return true;
             }
          
