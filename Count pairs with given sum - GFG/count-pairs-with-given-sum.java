@@ -49,9 +49,9 @@ class Solution {
 // HashSet won't work
 //     int count = 0;
 //     HashSet<Integer> set = new HashSet<>();
-//  int complement=0;
+//  
 //     for (int i = 0; i < n; i++) {
-//          complement = k - arr[i];
+//        int  complement = k - arr[i];
 //         if (set.contains(complement)) {
 //             count++;
 //         }
@@ -71,9 +71,11 @@ int count = 0;
         }
         
         // Increment the count for the current element
+        // map.getOrDefault(arr[i], 0) this line of code in hashmap used to indicate the frequency 
+        // of the current element so it increases by 1
         map.put(arr[i], map.getOrDefault(arr[i], 0) + 1);
     }
-
+// at last all the values that matches with the count pair sum is returned
     return count;
 
         
