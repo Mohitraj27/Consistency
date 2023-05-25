@@ -54,7 +54,18 @@ class Complete{
     // Function for finding maximum and value pair
     public static int minSwap (int arr[], int n, int k) {
         //Complete the function
-        
+        // https://www.youtube.com/watch?v=6_-zOrJlTDo refernce video
+        // Using silding window technique
+        /*
+        Algorithm Used
+        1. Intialize two favoruable and non favorable variables
+        2. Iterating through all the elements of an array which will count the no. of favpriable elements
+         that are less than k
+         3. if the elements of array are > k then it'll comes under non_fav 
+         4. iterate while loop inside sliding window such that left & right pointer iterated 
+         accordingly & result is stored with maximum array 
+         
+        */
         int fav=0,non_fav=0;
         for(int i=0;i<n;i++)
         {
