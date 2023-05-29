@@ -75,8 +75,12 @@ class GfG
 	/*
 	Algorithm Used
 	1. Initialize head node with temp
-	2. check through while condition that head node should not  be null
-	3. 
+	2. check through while condition that head node should not  be null else return that head value
+	
+	3. inside while loop check if the next pointer should not belong to null , and the next data value
+	 should be equal to the current data value then duplicates nodes occur so now take this duplicate to next 
+	 node and again check with its further node where again while loop will keep on working and terminates when
+	 no duplicates found in that case return whatever value is stored in temp.next
 	*/
 	Node temp = head;
     while (temp != null) {
