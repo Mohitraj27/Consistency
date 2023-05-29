@@ -107,8 +107,21 @@ class GFG
 
 class Solution {
     //Function to find first node if the linked list has a loop.
+    // using floyd's warshal algorithm 
     public static int findFirstNode(Node head){
         //code here
+        /* 1. two pointers are intilaized with head node 
+        and a boolean variable is taken which checks the loop exist or noy
+        2. If no loop is detected, the function returns null to indicate
+        that no loop exists in the linked list
+        3. If a loop exists, the slowPtr is reset to the head of the 
+        linked list, and both slowPtr and fastPtr are moved one step 
+        at a time until they meet again at the first node of the loop.
+        This is achieved by the second while loop.
+
+Finally, the function returns the slowPtr, which represents 
+the first node of the loop in the linked list.
+        */
             Node slowPtr = head;
     Node fastPtr = head;
     boolean loopExists = false;
