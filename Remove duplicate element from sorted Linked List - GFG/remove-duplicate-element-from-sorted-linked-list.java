@@ -71,24 +71,33 @@ class GfG
     //Function to remove duplicates from sorted linked list.
     Node removeDuplicates(Node head)
     {
-	// Your code here	
-	/*
-	Algorithm Used
-	1. Initialize head node with temp
-	2. check through while condition that head node should not  be null else return that head value
-	
-	3. inside while loop check if the next pointer should not belong to null , and the next data value
-	 should be equal to the current data value then duplicates nodes occur so now take this duplicate to next 
-	 node and again check with its further node where again while loop will keep on working and terminates when
-	 no duplicates found in that case return whatever value is stored in temp.next
+/* optimized approach
+    Simply using the concept of hashset 
+    1. checks for the head node if it is null return null means no node present
+    2. Create a empty hashset and all values in it 
+    and intialize current node as head node 
+    and check that current.next should not be null if found while loop terminates and head is returned
+    write a conditon for duplicates elements using .contains() function and checks by iterating throughout the 
+    linkedlist 
+    and 
 	*/
-	Node temp = head;
-    while (temp != null) {
-        while(temp.next != null && temp.next.data == temp.data) {
-           temp.next = temp.next.next;
+	
+	
+	if(head==null)
+	{
+	    return null;
+	}
+	Set<Integer> duplicates =new HashSet<>();
+	duplicates.add(head.data);
+	Node current= head;
+    while (current.next != null) {
+        if(duplicates.contains(current.next.data)){
+           current.next = current.next.next;
         }
-        temp = temp.next;
-    }
-    return head;
-    }
+        else {
+            duplicates.add(current.next.data);
+            current=current.next;
+        }
+        }
+    return head;    }
 }
