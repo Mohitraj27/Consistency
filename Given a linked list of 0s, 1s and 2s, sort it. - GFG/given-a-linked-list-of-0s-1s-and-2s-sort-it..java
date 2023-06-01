@@ -77,36 +77,51 @@ class Node
 */
 class Solution
 {
-
+ // time - O(n) space - O(1)
     //Function to sort a linked list of 0s, 1s and 2s.
     static Node segregate(Node head)
-    {
+    { 
+        //condition to  checks if the linked list is empty or 
+    //contains only one node. If so, it returns the head as it is, 
+    //since there is nothing to sort.
         if(head==null || head.next==null)
         {
             return head;
         }
-        //created three dummy nodes
+        //created three dummy nodes and initalized them with value of 0
+        
         Node zeroD = new Node(0); // Dummy node for 0s
         Node oneD = new Node(0);  // Dummy node for 1s
         Node twoD = new Node(0);  // Dummy node for 2s
 
+       // three ptrs are initialzed and set to dummy nodes
         Node zero = zeroD, one = oneD, two = twoD;
+        // current node is set to head
         Node curr = head;
-
+ 
+        // the current node when reaches ti end node then while loop termiates 
+        
         while (curr != null) {
+            // if current node is 0 then it is added to list and zero ptr moves 
+            // forward to next node
             if (curr.data == 0) {
                 zero.next = curr;
                 zero = zero.next;
-            } else if (curr.data == 1) {
+            } 
+            // current node is 1 then it is added to list and 1ptr moves to next node
+            else if (curr.data == 1) {
                 one.next = curr;
                 one = one.next;
-            } else {
+            } else 
+            //similar with twp ptr node
+            {
                 two.next = curr;
                 two = two.next;
             }
             curr = curr.next;
         }
-
+// after iteration through all nodes sublist for 0s ,1s, and 2s r formed, now next pts of dummy nodes
+// are adjusted to comcenatenate these sublist
         zero.next = (oneD.next != null) ? oneD.next : twoD.next;
         one.next = twoD.next;
         two.next = null;
