@@ -97,6 +97,7 @@ class Node
 
 class Solution
 {
+    // space O(1) time O(N)
     //Function to find the data of nth node from the end of a linked list.
     int getNthFromLast(Node head, int n)
     {
