@@ -23,7 +23,7 @@ class GFG
 
 class Solution
 {
-    /* space
+    /* space - O(n) time O(N)
    1. Initialize a HashMap (map) to store the count of each character in the input string and
    a Queue (q) to store the non-repeating characters.
 2.    Convert the input string A into a character array (stream).
