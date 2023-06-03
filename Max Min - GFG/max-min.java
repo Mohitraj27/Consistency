@@ -40,12 +40,29 @@ class Solution
  
     public static int findSum(int A[],int N) 
     {
-        //code here
-        // Brute force approach time- O(nlogn) space - O(1) 
-    Arrays.sort(A);
-        int min = A[0];
-        int max = A[N - 1];
-        return min + max;
+    //     //code here
+    //     // Brute force approach time- O(nlogn) space - O(1) 
+    // Arrays.sort(A);
+    //     int min = A[0];
+    //     int max = A[N - 1];
+    //     return min + max;
+    // Optimized approach  O(N)>> time & space - O(1)
+    
+    // checking if there is only single element prest
+    
+    int max =Integer.MIN_VALUE,min=Integer.MAX_VALUE;
+    
+    for(int i=0;i<N;i++)
+    {
+        if(A[i]>max){
+            max=A[i];
+        }
+         if(A[i]<min)
+        {
+            min=A[i];
+        }
+   }
+   return min+max;
     }
 }
  
