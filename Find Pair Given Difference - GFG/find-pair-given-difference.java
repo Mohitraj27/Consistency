@@ -42,7 +42,7 @@ class Solution
     public boolean findPair(int arr[], int size, int n)
     {
         //code here.
-        Arrays.sort(arr);
+        Arrays.sort(arr); 
         // time - O(n^2) brute force approach 
         for (int i = 0; i < size - 1; i++) {
         for (int j = i + 1; j < size; j++) {
