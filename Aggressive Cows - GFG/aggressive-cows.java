@@ -58,10 +58,21 @@ class Solution {
             }
             
         } 
+        // Finally, the method returns the value of high,
+        // which represents the maximum possible minimum distance between any two cows.
         return high;
         
     }
     // check the possiblity where the minimum distance b/w cows
+    /*
+    isPossible method is called to check if it is possible to place 
+    k cows with a minimum distance of mindis. This method iterates over
+    the stalls and counts the number of cows that can be placed based on 
+    the minimum distance. It uses a greedy approach, where a cow is placed 
+    at the first stall and then checks if the distance to the next stall is
+    greater than or equal to mindis. If it is, the cow is placed at that stall,
+    and the count is incremented.
+    */
     static boolean isPossible(int k,int []arr,int mindis){
         int cnt=1;
         int prevCow=arr[0];
