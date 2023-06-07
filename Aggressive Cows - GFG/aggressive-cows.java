@@ -34,12 +34,22 @@ class GFG {
 // User function Template for Java
 class Solution {
     public static int solve(int n, int k, int[] stalls) {
+        /*
+        time complexity is O(n)
+        n > no of stalls , k -> no of cows , stalls -> positon of stalls  
+        */
         
+        // 1 -> 2 -> 4 -> 8
+        // sorted the array to ensure the stalls are in increasing order of position
         Arrays.sort(stalls);
-        int low=1;
+        // low has minimum distance b/w any two stalls 
+        int low=1; 
+        // high has the maximum distance b/w any two stalls
         int high=stalls[n-1]-stalls[0];
         
+        // Now Using binary search we search that has the minimum distance b/w cows
         while(low<=high){
+            
             int mid=(low+high)/2;
             if(isPossible(k,stalls,mid)){
                 low=mid+1;
@@ -47,19 +57,26 @@ class Solution {
                 high=mid-1;
             }
             
-        } return high;
+        } 
+        return high;
         
     }
+    // check the possiblity where the minimum distance b/w cows
     static boolean isPossible(int k,int []arr,int mindis){
         int cnt=1;
         int prevCow=arr[0];
+        // iterating through loop to check how many cows are kept
         for(int i=1;i<arr.length;i++){
+            // calculating the distance b/w cows and comparing them with minimum distance
+            /// if not > minimum distance then increment the counter variable and check for next 
+            // element 
             if(arr[i]-prevCow>=mindis){
                 prevCow=arr[i];
                 cnt++;
                 
             }
         }
+        // to check we've placed k no of cows or not
         return cnt>=k;
     }
 }
