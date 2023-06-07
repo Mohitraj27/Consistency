@@ -49,7 +49,12 @@ class Solution {
         
         
         int i=0,j=0,kth=0;
+        // iterating through both the arrays
         while(i<n && j<m){
+            // comparing the intiaal elements of both the arrays whichever is smaller iterate accordingly
+            // further increment the pointer of that array which is smaller and comparing the next value of that array
+            // with the previous value of the array which was greater eariler
+            //two sepreate conditions are wriiten for both the arrays
             if(nums1[i]<nums2[j]){
                 kth++;
                 if(kth==k){
@@ -65,7 +70,8 @@ class Solution {
                 j++; 
             }
         }
-        
+        // case when either of array gets completed iteration 
+        // and some elements of  next array remains incompleted
         while(i<n)
         {
              kth++;
@@ -82,6 +88,7 @@ class Solution {
                 }
                 j++;
         }
+        //corner edge case 
         return -1;
     }
 }
