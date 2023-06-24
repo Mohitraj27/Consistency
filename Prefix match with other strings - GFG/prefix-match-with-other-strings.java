@@ -54,6 +54,7 @@ class Solution
     // return count
         for(int i=0;i<n;i++)
         {
+            // condition for checking the length of current element less than K
             if(arr[i].length()<k) continue;
             
             if(temp.equals(arr[i].substring(0,k)))
