@@ -123,22 +123,26 @@ class Solution
 {
     //Function to return the lowest common ancestor in a Binary Tree.
 	Node lca(Node root, int n1,int n2)
-	{
+	{ 
 	    if(root==null){
 	        return null;
 	    }
 	    if(root.data == n1 || root.data == n2 ){
 	        return root;
 	    }
-	    
+	    // traversal through left node
 	    Node left=lca(root.left,n1, n2);
 	    
+	    // traversal through right node
 	    Node right=lca(root.right,n1, n2);
 	    
+	    // if both the nodes are not null means child node exist so return the root 
+	    // present at this level
 	    if(left!=null && right!=null){
 	        return root;
 	    }
-	    
+	    // if either of the left node is presnt then again recursion technique 
+	    // for the following left substree and checking lca accordingly
 	    return (left!=null)?left:right;
 	   
 	    }
