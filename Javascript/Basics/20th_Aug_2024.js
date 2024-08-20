@@ -83,3 +83,13 @@ const book = Object.books.find((book) => book.title === "1984");
 console.log(book.genres.join(" "));
 
 console.log(Object.books.length);
+
+// Prompt the user to enter full name. Generate a username based on the input
+// Start with username with @, followed by their full name and ending with fullname length
+// Eg : If user enters fullname as John Doe, then username will be @JohnDoe3
+const prompt = require("prompt-sync")();
+
+const name = prompt("Enter your full name: ");
+
+const username = `@${name.toLowerCase().split(" ").join("")}${name.length}`;
+console.log(username);
