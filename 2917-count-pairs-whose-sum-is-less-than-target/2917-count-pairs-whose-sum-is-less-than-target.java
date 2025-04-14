@@ -1,17 +1,23 @@
 class Solution {
     public int countPairs(List<Integer> nums, int target) {
-        /** Brute Force
-        Time - O(N^2) space - O(N)
-         */
-      int count=0;
-      int n=nums.size();
-      for(int i=0;i<n;i++){
-        for(int j=i+1;j<n;j++){
-            if((nums.get(i)+nums.get(j))<target){
-                count++;
+        /*
+        Using Two ptr approach 
+        time - O(NLogN) Space O(1)
+
+        */
+        Collections.sort(nums); 
+        int i=0,j=nums.size()-1;
+        int count = 0;
+        while(i<j){
+            int sum = nums.get(i) + nums.get(j);
+
+            if (sum < target) {
+                count += (j - i);
+                i++;
+            } else {
+                j--;
             }
         }
-      }
-      return count;
+        return count;
     }
 }
