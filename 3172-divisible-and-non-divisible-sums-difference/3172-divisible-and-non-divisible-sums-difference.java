@@ -1,14 +1,14 @@
 class Solution {
     public int differenceOfSums(int n, int m) {
-        // Time - O(N) Space O(1)
-        int nums1=0,nums2=0;
-        for(int i=1;i<=n;i++){
-            if(i%m==0){
-                nums1+=i;
-            }else{
-                nums2+=i;
-            }
-        }
-        return nums2-nums1;
+        // Time - O(1) Space O(1)
+      int totalSum = n * (n + 1) / 2;
+
+        int k = n / m; // number of terms divisible by m
+        int divisibleSum = m * k * (k + 1) / 2;
+
+        return totalSum - 2 * divisibleSum;
     }
 }
+
+
+ 
