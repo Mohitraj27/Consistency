@@ -1,25 +1,46 @@
 class Solution {
     public int search(int[] arr,int target) {
-        /* Using Two Ptr Approach 
-        Time - O(N/2)
-        Space - O(1)
-        1. Intialize left pointer to zeroth index and right ptr to last index
-        2. Itertae throughout the array until left ptr <= right ptr
-        3. add two check if the right or left ptr index element matches with the target element 
-        then return tht element else return -1;
+        /**
+        Optimized Approch Using Binary Search Algorithm 
+        Step 1. Intialize Two Pointer Left to Starting Index and Right to last Index of the Array
+        Step 2. Calculate the Middle Index also check if middle index is the Target then return that
+        Step 3. Now,Determine Which Side either left or right half of the array is sorted 
+        Case A : If left Half is sorted 
+
+        This means the values from `low` to `mid` are in ascending order.
+
+        Check if the target lies in this sorted range:
+
+        Case B: If right Half is sorted 
+
+        This means the values from `mid` to `high` are sorted.
+
+        Check if the target lies in this sorted half
+ */
+       int low = 0, high = arr.length-1;
+        while(low<=high){
+            int mid = low + (high-low)/2;
+            if(arr[mid]==target) return mid;
         
-        */
-        int left=0,right=arr.length-1;
-        while(left<=right){
-            if(arr[left]==target){
-                return left;
+            // Left half is sorted
+            if (arr[low] <= arr[mid]) {
+                if (arr[low] <= target && target < arr[mid]) {
+                    high = mid - 1;
+                } else {
+                    low = mid + 1;
+                }
             }
-            if(arr[right]==target){
-                return right;
+            // Right half is sorted
+            else {
+                if (arr[mid] < target && target <= arr[high]) {
+                    low = mid + 1;
+                } else {
+                    high = mid - 1;
+                }
             }
-            left++;
-            right--;
         }
         return -1;
-    }
+    }   
 }
+
+
