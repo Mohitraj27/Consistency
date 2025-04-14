@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Mohitraj27/Consistency/tree/master/0189-rotate-array) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/Mohitraj27/Consistency/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Two Pointers
 |  |
 | ------- |
