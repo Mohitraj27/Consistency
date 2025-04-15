@@ -7,6 +7,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Mohitraj27/Consistency/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mohitraj27/Consistency/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Mohitraj27/Consistency/tree/master/0033-search-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/Mohitraj27/Consistency/tree/master/0189-rotate-array) |
@@ -31,4 +32,8 @@
 |  |
 | ------- |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Mohitraj27/Consistency/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Mohitraj27/Consistency/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
