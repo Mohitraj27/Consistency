@@ -47,4 +47,5 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Mohitraj27/Consistency/tree/master/0058-length-of-last-word) |
+| [1542-consecutive-characters](https://github.com/Mohitraj27/Consistency/tree/master/1542-consecutive-characters) |
 <!---LeetCode Topics End-->
