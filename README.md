@@ -14,6 +14,7 @@
 | [0189-rotate-array](https://github.com/Mohitraj27/Consistency/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/Mohitraj27/Consistency/tree/master/0485-max-consecutive-ones) |
 | [1019-squares-of-a-sorted-array](https://github.com/Mohitraj27/Consistency/tree/master/1019-squares-of-a-sorted-array) |
+| [2211-k-radius-subarray-averages](https://github.com/Mohitraj27/Consistency/tree/master/2211-k-radius-subarray-averages) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Mohitraj27/Consistency/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Math
 |  |
@@ -48,4 +49,8 @@
 | ------- |
 | [0058-length-of-last-word](https://github.com/Mohitraj27/Consistency/tree/master/0058-length-of-last-word) |
 | [1542-consecutive-characters](https://github.com/Mohitraj27/Consistency/tree/master/1542-consecutive-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [2211-k-radius-subarray-averages](https://github.com/Mohitraj27/Consistency/tree/master/2211-k-radius-subarray-averages) |
 <!---LeetCode Topics End-->
