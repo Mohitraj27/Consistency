@@ -54,4 +54,20 @@
 |  |
 | ------- |
 | [2211-k-radius-subarray-averages](https://github.com/Mohitraj27/Consistency/tree/master/2211-k-radius-subarray-averages) |
+## Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Mohitraj27/Consistency/tree/master/0101-symmetric-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Mohitraj27/Consistency/tree/master/0101-symmetric-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Mohitraj27/Consistency/tree/master/0101-symmetric-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Mohitraj27/Consistency/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
