@@ -13,6 +13,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohitraj27/Consistency/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Mohitraj27/Consistency/tree/master/0189-rotate-array) |
 | [0228-summary-ranges](https://github.com/Mohitraj27/Consistency/tree/master/0228-summary-ranges) |
+| [0414-third-maximum-number](https://github.com/Mohitraj27/Consistency/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Mohitraj27/Consistency/tree/master/0485-max-consecutive-ones) |
 | [1019-squares-of-a-sorted-array](https://github.com/Mohitraj27/Consistency/tree/master/1019-squares-of-a-sorted-array) |
 | [2211-k-radius-subarray-averages](https://github.com/Mohitraj27/Consistency/tree/master/2211-k-radius-subarray-averages) |
@@ -39,6 +40,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0414-third-maximum-number](https://github.com/Mohitraj27/Consistency/tree/master/0414-third-maximum-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/Mohitraj27/Consistency/tree/master/1019-squares-of-a-sorted-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Mohitraj27/Consistency/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
