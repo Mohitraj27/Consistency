@@ -28,6 +28,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Mohitraj27/Consistency/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mohitraj27/Consistency/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohitraj27/Consistency/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Mohitraj27/Consistency/tree/master/0189-rotate-array) |
@@ -56,6 +57,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Mohitraj27/Consistency/tree/master/0005-longest-palindromic-substring) |
 | [0058-length-of-last-word](https://github.com/Mohitraj27/Consistency/tree/master/0058-length-of-last-word) |
 | [1542-consecutive-characters](https://github.com/Mohitraj27/Consistency/tree/master/1542-consecutive-characters) |
 ## Sliding Window
@@ -86,4 +88,8 @@
 |  |
 | ------- |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/Mohitraj27/Consistency/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Mohitraj27/Consistency/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
