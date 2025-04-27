@@ -17,6 +17,7 @@
 | [0414-third-maximum-number](https://github.com/Mohitraj27/Consistency/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Mohitraj27/Consistency/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Mohitraj27/Consistency/tree/master/0485-max-consecutive-ones) |
+| [0575-distribute-candies](https://github.com/Mohitraj27/Consistency/tree/master/0575-distribute-candies) |
 | [1019-squares-of-a-sorted-array](https://github.com/Mohitraj27/Consistency/tree/master/1019-squares-of-a-sorted-array) |
 | [2211-k-radius-subarray-averages](https://github.com/Mohitraj27/Consistency/tree/master/2211-k-radius-subarray-averages) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/Mohitraj27/Consistency/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
@@ -57,6 +58,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mohitraj27/Consistency/tree/master/0001-two-sum) |
+| [0575-distribute-candies](https://github.com/Mohitraj27/Consistency/tree/master/0575-distribute-candies) |
 ## String
 |  |
 | ------- |
