@@ -81,10 +81,12 @@
 | [0058-length-of-last-word](https://github.com/Mohitraj27/Consistency/tree/master/0058-length-of-last-word) |
 | [0953-reverse-only-letters](https://github.com/Mohitraj27/Consistency/tree/master/0953-reverse-only-letters) |
 | [1542-consecutive-characters](https://github.com/Mohitraj27/Consistency/tree/master/1542-consecutive-characters) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Mohitraj27/Consistency/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Sliding Window
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Mohitraj27/Consistency/tree/master/0643-maximum-average-subarray-i) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Mohitraj27/Consistency/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2211-k-radius-subarray-averages](https://github.com/Mohitraj27/Consistency/tree/master/2211-k-radius-subarray-averages) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Mohitraj27/Consistency/tree/master/3644-minimum-positive-sum-subarray) |
 ## Tree
