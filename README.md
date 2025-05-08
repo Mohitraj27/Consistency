@@ -76,6 +76,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Mohitraj27/Consistency/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Mohitraj27/Consistency/tree/master/0049-group-anagrams) |
+| [0387-first-unique-character-in-a-string](https://github.com/Mohitraj27/Consistency/tree/master/0387-first-unique-character-in-a-string) |
 | [0575-distribute-candies](https://github.com/Mohitraj27/Consistency/tree/master/0575-distribute-candies) |
 | [2427-first-letter-to-appear-twice](https://github.com/Mohitraj27/Consistency/tree/master/2427-first-letter-to-appear-twice) |
 ## String
@@ -85,6 +86,7 @@
 | [0006-zigzag-conversion](https://github.com/Mohitraj27/Consistency/tree/master/0006-zigzag-conversion) |
 | [0049-group-anagrams](https://github.com/Mohitraj27/Consistency/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Mohitraj27/Consistency/tree/master/0058-length-of-last-word) |
+| [0387-first-unique-character-in-a-string](https://github.com/Mohitraj27/Consistency/tree/master/0387-first-unique-character-in-a-string) |
 | [0953-reverse-only-letters](https://github.com/Mohitraj27/Consistency/tree/master/0953-reverse-only-letters) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Mohitraj27/Consistency/tree/master/1321-get-equal-substrings-within-budget) |
 | [1542-consecutive-characters](https://github.com/Mohitraj27/Consistency/tree/master/1542-consecutive-characters) |
@@ -162,5 +164,10 @@
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Mohitraj27/Consistency/tree/master/0387-first-unique-character-in-a-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/Mohitraj27/Consistency/tree/master/2427-first-letter-to-appear-twice) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Mohitraj27/Consistency/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
