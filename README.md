@@ -27,6 +27,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/Mohitraj27/Consistency/tree/master/1019-squares-of-a-sorted-array) |
 | [2211-k-radius-subarray-averages](https://github.com/Mohitraj27/Consistency/tree/master/2211-k-radius-subarray-averages) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Mohitraj27/Consistency/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Mohitraj27/Consistency/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/Mohitraj27/Consistency/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Mohitraj27/Consistency/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/Mohitraj27/Consistency/tree/master/3415-check-if-grid-satisfies-conditions) |
@@ -69,6 +70,7 @@
 | [0414-third-maximum-number](https://github.com/Mohitraj27/Consistency/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Mohitraj27/Consistency/tree/master/0455-assign-cookies) |
 | [1019-squares-of-a-sorted-array](https://github.com/Mohitraj27/Consistency/tree/master/1019-squares-of-a-sorted-array) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Mohitraj27/Consistency/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/Mohitraj27/Consistency/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Mohitraj27/Consistency/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
@@ -80,6 +82,7 @@
 | [0575-distribute-candies](https://github.com/Mohitraj27/Consistency/tree/master/0575-distribute-candies) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Mohitraj27/Consistency/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2427-first-letter-to-appear-twice](https://github.com/Mohitraj27/Consistency/tree/master/2427-first-letter-to-appear-twice) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Mohitraj27/Consistency/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## String
 |  |
 | ------- |
@@ -172,4 +175,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Mohitraj27/Consistency/tree/master/0387-first-unique-character-in-a-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Mohitraj27/Consistency/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 <!---LeetCode Topics End-->
