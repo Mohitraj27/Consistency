@@ -83,6 +83,7 @@
 | [0575-distribute-candies](https://github.com/Mohitraj27/Consistency/tree/master/0575-distribute-candies) |
 | [0782-jewels-and-stones](https://github.com/Mohitraj27/Consistency/tree/master/0782-jewels-and-stones) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Mohitraj27/Consistency/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Mohitraj27/Consistency/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2427-first-letter-to-appear-twice](https://github.com/Mohitraj27/Consistency/tree/master/2427-first-letter-to-appear-twice) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Mohitraj27/Consistency/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## String
@@ -100,6 +101,7 @@
 | [1542-consecutive-characters](https://github.com/Mohitraj27/Consistency/tree/master/1542-consecutive-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Mohitraj27/Consistency/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Mohitraj27/Consistency/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Mohitraj27/Consistency/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2427-first-letter-to-appear-twice](https://github.com/Mohitraj27/Consistency/tree/master/2427-first-letter-to-appear-twice) |
 ## Sliding Window
 |  |
@@ -175,6 +177,7 @@
 | ------- |
 | [0383-ransom-note](https://github.com/Mohitraj27/Consistency/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mohitraj27/Consistency/tree/master/0387-first-unique-character-in-a-string) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Mohitraj27/Consistency/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2427-first-letter-to-appear-twice](https://github.com/Mohitraj27/Consistency/tree/master/2427-first-letter-to-appear-twice) |
 ## Queue
 |  |
