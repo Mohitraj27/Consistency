@@ -22,6 +22,7 @@
 | [0414-third-maximum-number](https://github.com/Mohitraj27/Consistency/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Mohitraj27/Consistency/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Mohitraj27/Consistency/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/Mohitraj27/Consistency/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Mohitraj27/Consistency/tree/master/0575-distribute-candies) |
 | [0643-maximum-average-subarray-i](https://github.com/Mohitraj27/Consistency/tree/master/0643-maximum-average-subarray-i) |
 | [1019-squares-of-a-sorted-array](https://github.com/Mohitraj27/Consistency/tree/master/1019-squares-of-a-sorted-array) |
@@ -82,6 +83,7 @@
 | [0049-group-anagrams](https://github.com/Mohitraj27/Consistency/tree/master/0049-group-anagrams) |
 | [0383-ransom-note](https://github.com/Mohitraj27/Consistency/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mohitraj27/Consistency/tree/master/0387-first-unique-character-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/Mohitraj27/Consistency/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Mohitraj27/Consistency/tree/master/0575-distribute-candies) |
 | [0782-jewels-and-stones](https://github.com/Mohitraj27/Consistency/tree/master/0782-jewels-and-stones) |
 | [1297-maximum-number-of-balloons](https://github.com/Mohitraj27/Consistency/tree/master/1297-maximum-number-of-balloons) |
@@ -144,6 +146,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Mohitraj27/Consistency/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/Mohitraj27/Consistency/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/Mohitraj27/Consistency/tree/master/0560-subarray-sum-equals-k) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Mohitraj27/Consistency/tree/master/1321-get-equal-substrings-within-budget) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/Mohitraj27/Consistency/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Mohitraj27/Consistency/tree/master/3644-minimum-positive-sum-subarray) |
