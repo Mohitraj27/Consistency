@@ -39,6 +39,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Mohitraj27/Consistency/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/Mohitraj27/Consistency/tree/master/0189-rotate-array) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Mohitraj27/Consistency/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Mohitraj27/Consistency/tree/master/3704-count-partitions-with-even-sum-difference) |
