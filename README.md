@@ -27,6 +27,7 @@
 | [0575-distribute-candies](https://github.com/Mohitraj27/Consistency/tree/master/0575-distribute-candies) |
 | [0643-maximum-average-subarray-i](https://github.com/Mohitraj27/Consistency/tree/master/0643-maximum-average-subarray-i) |
 | [1019-squares-of-a-sorted-array](https://github.com/Mohitraj27/Consistency/tree/master/1019-squares-of-a-sorted-array) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Mohitraj27/Consistency/tree/master/1370-count-number-of-nice-subarrays) |
 | [2211-k-radius-subarray-averages](https://github.com/Mohitraj27/Consistency/tree/master/2211-k-radius-subarray-averages) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Mohitraj27/Consistency/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Mohitraj27/Consistency/tree/master/2331-intersection-of-multiple-arrays) |
@@ -42,6 +43,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Mohitraj27/Consistency/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/Mohitraj27/Consistency/tree/master/0189-rotate-array) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Mohitraj27/Consistency/tree/master/1370-count-number-of-nice-subarrays) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Mohitraj27/Consistency/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Mohitraj27/Consistency/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Two Pointers
@@ -92,6 +94,7 @@
 | [0575-distribute-candies](https://github.com/Mohitraj27/Consistency/tree/master/0575-distribute-candies) |
 | [0782-jewels-and-stones](https://github.com/Mohitraj27/Consistency/tree/master/0782-jewels-and-stones) |
 | [1297-maximum-number-of-balloons](https://github.com/Mohitraj27/Consistency/tree/master/1297-maximum-number-of-balloons) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Mohitraj27/Consistency/tree/master/1370-count-number-of-nice-subarrays) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Mohitraj27/Consistency/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Mohitraj27/Consistency/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Mohitraj27/Consistency/tree/master/2331-intersection-of-multiple-arrays) |
@@ -123,6 +126,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Mohitraj27/Consistency/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Mohitraj27/Consistency/tree/master/0643-maximum-average-subarray-i) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Mohitraj27/Consistency/tree/master/1321-get-equal-substrings-within-budget) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Mohitraj27/Consistency/tree/master/1370-count-number-of-nice-subarrays) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Mohitraj27/Consistency/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2211-k-radius-subarray-averages](https://github.com/Mohitraj27/Consistency/tree/master/2211-k-radius-subarray-averages) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Mohitraj27/Consistency/tree/master/3644-minimum-positive-sum-subarray) |
@@ -155,6 +159,7 @@
 | [0303-range-sum-query-immutable](https://github.com/Mohitraj27/Consistency/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Mohitraj27/Consistency/tree/master/0560-subarray-sum-equals-k) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Mohitraj27/Consistency/tree/master/1321-get-equal-substrings-within-budget) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Mohitraj27/Consistency/tree/master/1370-count-number-of-nice-subarrays) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/Mohitraj27/Consistency/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Mohitraj27/Consistency/tree/master/3644-minimum-positive-sum-subarray) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Mohitraj27/Consistency/tree/master/3704-count-partitions-with-even-sum-difference) |
