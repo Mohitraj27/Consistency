@@ -219,4 +219,8 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mohitraj27/Consistency/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/Mohitraj27/Consistency/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
