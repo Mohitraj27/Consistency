@@ -14,6 +14,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Mohitraj27/Consistency/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Mohitraj27/Consistency/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Mohitraj27/Consistency/tree/master/0049-group-anagrams) |
+| [0059-spiral-matrix-ii](https://github.com/Mohitraj27/Consistency/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/Mohitraj27/Consistency/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mohitraj27/Consistency/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/Mohitraj27/Consistency/tree/master/0119-pascals-triangle-ii) |
@@ -185,10 +186,12 @@
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Mohitraj27/Consistency/tree/master/0059-spiral-matrix-ii) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/Mohitraj27/Consistency/tree/master/3415-check-if-grid-satisfies-conditions) |
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Mohitraj27/Consistency/tree/master/0059-spiral-matrix-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Mohitraj27/Consistency/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Design
 |  |
