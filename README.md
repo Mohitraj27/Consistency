@@ -111,6 +111,7 @@
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Mohitraj27/Consistency/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Mohitraj27/Consistency/tree/master/1370-count-number-of-nice-subarrays) |
 | [1547-destination-city](https://github.com/Mohitraj27/Consistency/tree/master/1547-destination-city) |
+| [1619-path-crossing](https://github.com/Mohitraj27/Consistency/tree/master/1619-path-crossing) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Mohitraj27/Consistency/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Mohitraj27/Consistency/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Mohitraj27/Consistency/tree/master/2331-intersection-of-multiple-arrays) |
@@ -134,6 +135,7 @@
 | [1542-consecutive-characters](https://github.com/Mohitraj27/Consistency/tree/master/1542-consecutive-characters) |
 | [1547-destination-city](https://github.com/Mohitraj27/Consistency/tree/master/1547-destination-city) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Mohitraj27/Consistency/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1619-path-crossing](https://github.com/Mohitraj27/Consistency/tree/master/1619-path-crossing) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Mohitraj27/Consistency/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Mohitraj27/Consistency/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2427-first-letter-to-appear-twice](https://github.com/Mohitraj27/Consistency/tree/master/2427-first-letter-to-appear-twice) |
