@@ -35,6 +35,7 @@
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Mohitraj27/Consistency/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Mohitraj27/Consistency/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Mohitraj27/Consistency/tree/master/1370-count-number-of-nice-subarrays) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Mohitraj27/Consistency/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1547-destination-city](https://github.com/Mohitraj27/Consistency/tree/master/1547-destination-city) |
 | [1635-number-of-good-pairs](https://github.com/Mohitraj27/Consistency/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/Mohitraj27/Consistency/tree/master/1848-sum-of-unique-elements) |
@@ -115,6 +116,7 @@
 | [1319-unique-number-of-occurrences](https://github.com/Mohitraj27/Consistency/tree/master/1319-unique-number-of-occurrences) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Mohitraj27/Consistency/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Mohitraj27/Consistency/tree/master/1370-count-number-of-nice-subarrays) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Mohitraj27/Consistency/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1547-destination-city](https://github.com/Mohitraj27/Consistency/tree/master/1547-destination-city) |
 | [1619-path-crossing](https://github.com/Mohitraj27/Consistency/tree/master/1619-path-crossing) |
 | [1635-number-of-good-pairs](https://github.com/Mohitraj27/Consistency/tree/master/1635-number-of-good-pairs) |
@@ -228,6 +230,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Mohitraj27/Consistency/tree/master/0387-first-unique-character-in-a-string) |
 | [1297-maximum-number-of-balloons](https://github.com/Mohitraj27/Consistency/tree/master/1297-maximum-number-of-balloons) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Mohitraj27/Consistency/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Mohitraj27/Consistency/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Mohitraj27/Consistency/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/Mohitraj27/Consistency/tree/master/1848-sum-of-unique-elements) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Mohitraj27/Consistency/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
