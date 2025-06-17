@@ -68,6 +68,7 @@
 | [0016-3sum-closest](https://github.com/Mohitraj27/Consistency/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mohitraj27/Consistency/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Mohitraj27/Consistency/tree/master/0075-sort-colors) |
+| [0141-linked-list-cycle](https://github.com/Mohitraj27/Consistency/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohitraj27/Consistency/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Mohitraj27/Consistency/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/Mohitraj27/Consistency/tree/master/0455-assign-cookies) |
@@ -108,6 +109,7 @@
 | [0001-two-sum](https://github.com/Mohitraj27/Consistency/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mohitraj27/Consistency/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/Mohitraj27/Consistency/tree/master/0049-group-anagrams) |
+| [0141-linked-list-cycle](https://github.com/Mohitraj27/Consistency/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/Mohitraj27/Consistency/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Mohitraj27/Consistency/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/Mohitraj27/Consistency/tree/master/0290-word-pattern) |
@@ -269,4 +271,8 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Mohitraj27/Consistency/tree/master/0451-sort-characters-by-frequency) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Mohitraj27/Consistency/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
