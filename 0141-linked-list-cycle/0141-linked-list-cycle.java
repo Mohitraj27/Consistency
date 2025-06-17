@@ -11,31 +11,22 @@
  */
 public class Solution {
     public boolean hasCycle(ListNode head) {
-        
-        // Using the Concept of Warshell Floydd ALgorithm
-        //Using Two pointer approach Also Tortoise Hair Problem
-        
-        
-        //First Intialize bothe the pointers to head
-        ListNode slowPtr = head;
-        ListNode fastPtr= head;
-        
-        //If either of the pointer reaches to null while loop terminates i.e the List is not cycle
-        while(slowPtr!= null && fastPtr!=null && fastPtr.next!=null )
-        {
-            //Slow ptr increment by 1  node whereas fast ptr increment by 2 node
-            slowPtr=slowPtr.next;
-            fastPtr=fastPtr.next.next;
-            
-            //At a pointer there will be a node when both the pointer  collides at the same node 
-            // return true
-            if(slowPtr==fastPtr)
-            {
+        ListNode slow = head, fast = head;
+        while(fast !=null && fast.next !=null){
+            fast = fast.next.next;
+            slow = slow.next;
+            if(fast!=null && fast.equals(slow)){
                 return true;
             }
         }
-        //if the list is not cyclic while loop terminates and false is returned
         return false;
-        
     }
 }
+
+/**
+Tortoise Hare Algorithm
+Step 1: Initialze two ptrs slow and fast slow to head and fast to head
+Step 2: Iterate through the linkedList slow ptr by 1 and fast ptr by two and where both these ptrs meets return true if not 
+Step 3 then it is not a Linked List Cycle return false;
+
+ */
