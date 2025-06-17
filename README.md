@@ -72,6 +72,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohitraj27/Consistency/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Mohitraj27/Consistency/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/Mohitraj27/Consistency/tree/master/0455-assign-cookies) |
+| [0908-middle-of-the-linked-list](https://github.com/Mohitraj27/Consistency/tree/master/0908-middle-of-the-linked-list) |
 | [0953-reverse-only-letters](https://github.com/Mohitraj27/Consistency/tree/master/0953-reverse-only-letters) |
 | [1019-squares-of-a-sorted-array](https://github.com/Mohitraj27/Consistency/tree/master/1019-squares-of-a-sorted-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Mohitraj27/Consistency/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -275,4 +276,5 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Mohitraj27/Consistency/tree/master/0141-linked-list-cycle) |
+| [0908-middle-of-the-linked-list](https://github.com/Mohitraj27/Consistency/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
