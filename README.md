@@ -143,6 +143,7 @@
 | [0006-zigzag-conversion](https://github.com/Mohitraj27/Consistency/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Mohitraj27/Consistency/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mohitraj27/Consistency/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/Mohitraj27/Consistency/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Mohitraj27/Consistency/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Mohitraj27/Consistency/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/Mohitraj27/Consistency/tree/master/0205-isomorphic-strings) |
@@ -279,4 +280,8 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mohitraj27/Consistency/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Mohitraj27/Consistency/tree/master/0141-linked-list-cycle) |
 | [0908-middle-of-the-linked-list](https://github.com/Mohitraj27/Consistency/tree/master/0908-middle-of-the-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Mohitraj27/Consistency/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
