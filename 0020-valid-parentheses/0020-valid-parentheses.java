@@ -1,29 +1,47 @@
 class Solution 
 {
-    public boolean isValid(String s) 
-    {
-        // O(n) time | O(n) space
-        if(s == null || s.length() == 0)    return true;
-        if(s.length() % 2 != 0) return false;
-        
-        Stack<Character> myStack = new Stack<>();
-        
-        for(char ch : s.toCharArray())
-        {
-            if(ch == '(' || ch == '[' || ch == '{')
-                myStack.push(ch);
-            else
-            {
-                if(ch == ')' && (myStack.isEmpty() || myStack.peek() != '('))
+    public boolean isValid(String s) {
+       Stack<Character> stack=new Stack();
+       for(char i: s.toCharArray()){
+        if(isBracketOpen(i)){
+            stack.push(i);
+        } else {
+            if(stack.size()==0){
+                return false;
+            } else {
+                if(areBracketsMatching(stack.peek(),i)){
+                    stack.pop();
+                } else {  
                     return false;
-                if(ch == ']' && (myStack.isEmpty() || myStack.peek() != '['))
-                    return false;
-                if(ch == '}' && (myStack.isEmpty() || myStack.peek() != '{'))
-                    return false;
-                
-                myStack.pop();
+                }
             }
         }
-        return myStack.isEmpty();
+       }
+       return stack.size() == 0;
+    }
+    private boolean isBracketOpen(char c){
+        switch (c){
+            case '(':
+            case '{':
+            case '[':
+                return true;
+            default:
+                return false;
+        }    
+    }
+    private boolean areBracketsMatching(char c,char d){
+        if(c == '(' && d == ')'){
+            return true;
+        }else if(c == '{' && d == '}'){
+            return true;
+        }else if(c == '[' && d == ']'){
+            return true;
+        }else{
+            return false;
+        }
     }
 }
+
+/**
+    Time - O(N) Space - O(N)
+ */
