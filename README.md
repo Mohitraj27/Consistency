@@ -39,6 +39,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/Mohitraj27/Consistency/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1547-destination-city](https://github.com/Mohitraj27/Consistency/tree/master/1547-destination-city) |
 | [1635-number-of-good-pairs](https://github.com/Mohitraj27/Consistency/tree/master/1635-number-of-good-pairs) |
+| [1813-maximum-erasure-value](https://github.com/Mohitraj27/Consistency/tree/master/1813-maximum-erasure-value) |
 | [1848-sum-of-unique-elements](https://github.com/Mohitraj27/Consistency/tree/master/1848-sum-of-unique-elements) |
 | [2211-k-radius-subarray-averages](https://github.com/Mohitraj27/Consistency/tree/master/2211-k-radius-subarray-averages) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Mohitraj27/Consistency/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -130,6 +131,7 @@
 | [1547-destination-city](https://github.com/Mohitraj27/Consistency/tree/master/1547-destination-city) |
 | [1619-path-crossing](https://github.com/Mohitraj27/Consistency/tree/master/1619-path-crossing) |
 | [1635-number-of-good-pairs](https://github.com/Mohitraj27/Consistency/tree/master/1635-number-of-good-pairs) |
+| [1813-maximum-erasure-value](https://github.com/Mohitraj27/Consistency/tree/master/1813-maximum-erasure-value) |
 | [1848-sum-of-unique-elements](https://github.com/Mohitraj27/Consistency/tree/master/1848-sum-of-unique-elements) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Mohitraj27/Consistency/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Mohitraj27/Consistency/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -171,6 +173,7 @@
 | [1321-get-equal-substrings-within-budget](https://github.com/Mohitraj27/Consistency/tree/master/1321-get-equal-substrings-within-budget) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Mohitraj27/Consistency/tree/master/1370-count-number-of-nice-subarrays) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Mohitraj27/Consistency/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1813-maximum-erasure-value](https://github.com/Mohitraj27/Consistency/tree/master/1813-maximum-erasure-value) |
 | [2211-k-radius-subarray-averages](https://github.com/Mohitraj27/Consistency/tree/master/2211-k-radius-subarray-averages) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Mohitraj27/Consistency/tree/master/3644-minimum-positive-sum-subarray) |
 ## Tree
