@@ -22,6 +22,7 @@
 | [0189-rotate-array](https://github.com/Mohitraj27/Consistency/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mohitraj27/Consistency/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Mohitraj27/Consistency/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Mohitraj27/Consistency/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Mohitraj27/Consistency/tree/master/0228-summary-ranges) |
 | [0303-range-sum-query-immutable](https://github.com/Mohitraj27/Consistency/tree/master/0303-range-sum-query-immutable) |
 | [0414-third-maximum-number](https://github.com/Mohitraj27/Consistency/tree/master/0414-third-maximum-number) |
@@ -116,6 +117,7 @@
 | [0141-linked-list-cycle](https://github.com/Mohitraj27/Consistency/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/Mohitraj27/Consistency/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Mohitraj27/Consistency/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Mohitraj27/Consistency/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/Mohitraj27/Consistency/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Mohitraj27/Consistency/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mohitraj27/Consistency/tree/master/0387-first-unique-character-in-a-string) |
@@ -173,6 +175,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Mohitraj27/Consistency/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/Mohitraj27/Consistency/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Mohitraj27/Consistency/tree/master/0643-maximum-average-subarray-i) |
 | [0966-binary-subarrays-with-sum](https://github.com/Mohitraj27/Consistency/tree/master/0966-binary-subarrays-with-sum) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Mohitraj27/Consistency/tree/master/1321-get-equal-substrings-within-budget) |
