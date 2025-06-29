@@ -10,34 +10,22 @@
  */
 class Solution {
     public ListNode deleteDuplicates(ListNode head) {
-    /*
-    Simply using the concept of hashset 
-    1. checks for the head node if it is null return null means no node present
-    2. Create a empty hashset and all values in it 
-    and intialize current node as head node 
-    and check that current.next should not be null if found while loop terminates and head is returned
-    write a conditon for duplicates elements using .contains() function and checks by iterating throughout the 
-    linkedlist 
-    and 
-	*/
-	
-	
-	if(head==null)
-	{
-	    return null;
-	}
-	Set<Integer> duplicates =new HashSet<>();
-	duplicates.add(head.val);
-	ListNode current= head;
-    while (current.next != null) {
-        if(duplicates.contains(current.next.val)){
-           current.next = current.next.next;
+       ListNode curr = head;
+       while(curr != null && curr.next!=null){
+        if(curr.val == curr.next.val){
+            curr.next = curr.next.next;
+        }else{
+            curr = curr.next;
         }
-        else {
-            duplicates.add(current.next.val);
-            current=current.next;
-        }
-        }
-    return head;    
+       }
+       return head;
     }
+    
 }
+
+/*
+    Create a curre Node and points it to head
+    Iterate through each node such that if current node value is equal to next node value
+    then assign that next node value to its next node value else incremtn the current node by 1 
+    check this until the current node value is null and current next node value is null
+ */
