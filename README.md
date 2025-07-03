@@ -290,6 +290,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mohitraj27/Consistency/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0024-swap-nodes-in-pairs](https://github.com/Mohitraj27/Consistency/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Mohitraj27/Consistency/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Mohitraj27/Consistency/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Mohitraj27/Consistency/tree/master/0206-reverse-linked-list) |
@@ -301,5 +302,6 @@
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Mohitraj27/Consistency/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/Mohitraj27/Consistency/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
