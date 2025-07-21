@@ -162,6 +162,7 @@
 | [0889-buddy-strings](https://github.com/Mohitraj27/Consistency/tree/master/0889-buddy-strings) |
 | [0953-reverse-only-letters](https://github.com/Mohitraj27/Consistency/tree/master/0953-reverse-only-letters) |
 | [1297-maximum-number-of-balloons](https://github.com/Mohitraj27/Consistency/tree/master/1297-maximum-number-of-balloons) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/Mohitraj27/Consistency/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Mohitraj27/Consistency/tree/master/1321-get-equal-substrings-within-budget) |
 | [1542-consecutive-characters](https://github.com/Mohitraj27/Consistency/tree/master/1542-consecutive-characters) |
 | [1547-destination-city](https://github.com/Mohitraj27/Consistency/tree/master/1547-destination-city) |
