@@ -72,6 +72,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mohitraj27/Consistency/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Mohitraj27/Consistency/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Mohitraj27/Consistency/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/Mohitraj27/Consistency/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohitraj27/Consistency/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Mohitraj27/Consistency/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mohitraj27/Consistency/tree/master/0345-reverse-vowels-of-a-string) |
@@ -99,6 +100,7 @@
 | [0016-3sum-closest](https://github.com/Mohitraj27/Consistency/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/Mohitraj27/Consistency/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Mohitraj27/Consistency/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/Mohitraj27/Consistency/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/Mohitraj27/Consistency/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/Mohitraj27/Consistency/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Mohitraj27/Consistency/tree/master/0451-sort-characters-by-frequency) |
@@ -247,6 +249,7 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mohitraj27/Consistency/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/Mohitraj27/Consistency/tree/master/0148-sort-list) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -298,6 +301,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/Mohitraj27/Consistency/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Mohitraj27/Consistency/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Mohitraj27/Consistency/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/Mohitraj27/Consistency/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Mohitraj27/Consistency/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Mohitraj27/Consistency/tree/master/0908-middle-of-the-linked-list) |
 ## Stack
@@ -309,4 +313,8 @@
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Mohitraj27/Consistency/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/Mohitraj27/Consistency/tree/master/0206-reverse-linked-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Mohitraj27/Consistency/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
