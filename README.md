@@ -37,6 +37,7 @@
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Mohitraj27/Consistency/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Mohitraj27/Consistency/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Mohitraj27/Consistency/tree/master/1370-count-number-of-nice-subarrays) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Mohitraj27/Consistency/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Mohitraj27/Consistency/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1547-destination-city](https://github.com/Mohitraj27/Consistency/tree/master/1547-destination-city) |
 | [1635-number-of-good-pairs](https://github.com/Mohitraj27/Consistency/tree/master/1635-number-of-good-pairs) |
@@ -59,6 +60,7 @@
 | [0189-rotate-array](https://github.com/Mohitraj27/Consistency/tree/master/0189-rotate-array) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Mohitraj27/Consistency/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Mohitraj27/Consistency/tree/master/1370-count-number-of-nice-subarrays) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Mohitraj27/Consistency/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1635-number-of-good-pairs](https://github.com/Mohitraj27/Consistency/tree/master/1635-number-of-good-pairs) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Mohitraj27/Consistency/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Mohitraj27/Consistency/tree/master/3704-count-partitions-with-even-sum-difference) |
