@@ -16,7 +16,7 @@ public class Searching {
         for(int i=0;i<size;i++){
             arr[i]=sc.nextInt();
         }
-
+        sc.close();
         int result = binarySearchAlgo(arr,target);
         // int result = linearSearchAlgo(arr,target);
         if(result!=-1){
