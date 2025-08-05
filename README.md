@@ -24,6 +24,7 @@
 | [0217-contains-duplicate](https://github.com/Mohitraj27/Consistency/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Mohitraj27/Consistency/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Mohitraj27/Consistency/tree/master/0228-summary-ranges) |
+| [0287-find-the-duplicate-number](https://github.com/Mohitraj27/Consistency/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Mohitraj27/Consistency/tree/master/0303-range-sum-query-immutable) |
 | [0414-third-maximum-number](https://github.com/Mohitraj27/Consistency/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Mohitraj27/Consistency/tree/master/0455-assign-cookies) |
@@ -77,6 +78,7 @@
 | [0148-sort-list](https://github.com/Mohitraj27/Consistency/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohitraj27/Consistency/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Mohitraj27/Consistency/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/Mohitraj27/Consistency/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mohitraj27/Consistency/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/Mohitraj27/Consistency/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/Mohitraj27/Consistency/tree/master/0455-assign-cookies) |
@@ -92,6 +94,7 @@
 | [0035-search-insert-position](https://github.com/Mohitraj27/Consistency/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohitraj27/Consistency/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mohitraj27/Consistency/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/Mohitraj27/Consistency/tree/master/0287-find-the-duplicate-number) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Mohitraj27/Consistency/tree/master/1321-get-equal-substrings-within-budget) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/Mohitraj27/Consistency/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Mohitraj27/Consistency/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -259,6 +262,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Mohitraj27/Consistency/tree/master/0287-find-the-duplicate-number) |
 | [2427-first-letter-to-appear-twice](https://github.com/Mohitraj27/Consistency/tree/master/2427-first-letter-to-appear-twice) |
 ## Counting
 |  |
