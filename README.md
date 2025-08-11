@@ -1,5 +1,6 @@
 # 𝐂𝐨𝐧𝐬𝐢𝐬𝐭𝐞𝐧𝐜𝐲!!
-![Java_gif](https://user-images.githubusercontent.com/87956374/178802167-bc008a24-1897-4029-a7a7-d22978110c4d.gif)
+![0884e3b8-c8f8-11e6-8ce3-74ff6502cbca](https://github.com/user-attachments/assets/d5bd9e1d-804b-46ba-a9a9-837ee6bc6069)
+
 
 
 <!---LeetCode Topics Start-->
