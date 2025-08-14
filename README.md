@@ -21,6 +21,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mohitraj27/Consistency/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/Mohitraj27/Consistency/tree/master/0119-pascals-triangle-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mohitraj27/Consistency/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Mohitraj27/Consistency/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohitraj27/Consistency/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Mohitraj27/Consistency/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mohitraj27/Consistency/tree/master/0209-minimum-size-subarray-sum) |
@@ -97,6 +98,7 @@
 | [0035-search-insert-position](https://github.com/Mohitraj27/Consistency/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Mohitraj27/Consistency/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mohitraj27/Consistency/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Mohitraj27/Consistency/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohitraj27/Consistency/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mohitraj27/Consistency/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Mohitraj27/Consistency/tree/master/0287-find-the-duplicate-number) |
