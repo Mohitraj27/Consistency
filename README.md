@@ -15,6 +15,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Mohitraj27/Consistency/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Mohitraj27/Consistency/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Mohitraj27/Consistency/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Mohitraj27/Consistency/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/Mohitraj27/Consistency/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/Mohitraj27/Consistency/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Mohitraj27/Consistency/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -112,6 +113,7 @@
 | [0015-3sum](https://github.com/Mohitraj27/Consistency/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Mohitraj27/Consistency/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/Mohitraj27/Consistency/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Mohitraj27/Consistency/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Mohitraj27/Consistency/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Mohitraj27/Consistency/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/Mohitraj27/Consistency/tree/master/0217-contains-duplicate) |
