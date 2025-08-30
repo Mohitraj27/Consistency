@@ -66,6 +66,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Mohitraj27/Consistency/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Mohitraj27/Consistency/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/Mohitraj27/Consistency/tree/master/0189-rotate-array) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Mohitraj27/Consistency/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
@@ -322,6 +323,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Mohitraj27/Consistency/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mohitraj27/Consistency/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/Mohitraj27/Consistency/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Mohitraj27/Consistency/tree/master/0083-remove-duplicates-from-sorted-list) |
@@ -336,6 +338,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Mohitraj27/Consistency/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/Mohitraj27/Consistency/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/Mohitraj27/Consistency/tree/master/0206-reverse-linked-list) |
 ## Merge Sort
