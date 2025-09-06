@@ -11,6 +11,7 @@
 | [0001-two-sum](https://github.com/Mohitraj27/Consistency/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mohitraj27/Consistency/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Mohitraj27/Consistency/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Mohitraj27/Consistency/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Mohitraj27/Consistency/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Mohitraj27/Consistency/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mohitraj27/Consistency/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -176,6 +177,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Mohitraj27/Consistency/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Mohitraj27/Consistency/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Mohitraj27/Consistency/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/Mohitraj27/Consistency/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mohitraj27/Consistency/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Mohitraj27/Consistency/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Mohitraj27/Consistency/tree/master/0049-group-anagrams) |
@@ -347,4 +349,8 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Mohitraj27/Consistency/tree/master/0148-sort-list) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Mohitraj27/Consistency/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
