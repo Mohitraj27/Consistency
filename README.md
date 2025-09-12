@@ -16,6 +16,7 @@
 | [0016-3sum-closest](https://github.com/Mohitraj27/Consistency/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mohitraj27/Consistency/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Mohitraj27/Consistency/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/Mohitraj27/Consistency/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Mohitraj27/Consistency/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Mohitraj27/Consistency/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Mohitraj27/Consistency/tree/master/0039-combination-sum) |
@@ -87,6 +88,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mohitraj27/Consistency/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mohitraj27/Consistency/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Mohitraj27/Consistency/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/Mohitraj27/Consistency/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Mohitraj27/Consistency/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Mohitraj27/Consistency/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Mohitraj27/Consistency/tree/master/0148-sort-list) |
