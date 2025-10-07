@@ -25,6 +25,7 @@
 | [0056-merge-intervals](https://github.com/Mohitraj27/Consistency/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/Mohitraj27/Consistency/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/Mohitraj27/Consistency/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Mohitraj27/Consistency/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Mohitraj27/Consistency/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mohitraj27/Consistency/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/Mohitraj27/Consistency/tree/master/0119-pascals-triangle-ii) |
@@ -289,6 +290,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Mohitraj27/Consistency/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/Mohitraj27/Consistency/tree/master/0287-find-the-duplicate-number) |
 | [2427-first-letter-to-appear-twice](https://github.com/Mohitraj27/Consistency/tree/master/2427-first-letter-to-appear-twice) |
 ## Counting
@@ -320,6 +322,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mohitraj27/Consistency/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/Mohitraj27/Consistency/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/Mohitraj27/Consistency/tree/master/0078-subsets) |
 ## Database
 |  |
 | ------- |
