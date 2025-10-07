@@ -39,6 +39,7 @@
 | [0217-contains-duplicate](https://github.com/Mohitraj27/Consistency/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Mohitraj27/Consistency/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Mohitraj27/Consistency/tree/master/0228-summary-ranges) |
+| [0229-majority-element-ii](https://github.com/Mohitraj27/Consistency/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Mohitraj27/Consistency/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Mohitraj27/Consistency/tree/master/0303-range-sum-query-immutable) |
 | [0414-third-maximum-number](https://github.com/Mohitraj27/Consistency/tree/master/0414-third-maximum-number) |
@@ -131,6 +132,7 @@
 | [0075-sort-colors](https://github.com/Mohitraj27/Consistency/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Mohitraj27/Consistency/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/Mohitraj27/Consistency/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Mohitraj27/Consistency/tree/master/0229-majority-element-ii) |
 | [0414-third-maximum-number](https://github.com/Mohitraj27/Consistency/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Mohitraj27/Consistency/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Mohitraj27/Consistency/tree/master/0455-assign-cookies) |
@@ -152,6 +154,7 @@
 | [0205-isomorphic-strings](https://github.com/Mohitraj27/Consistency/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Mohitraj27/Consistency/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Mohitraj27/Consistency/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/Mohitraj27/Consistency/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/Mohitraj27/Consistency/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Mohitraj27/Consistency/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mohitraj27/Consistency/tree/master/0387-first-unique-character-in-a-string) |
@@ -298,6 +301,7 @@
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Mohitraj27/Consistency/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/Mohitraj27/Consistency/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mohitraj27/Consistency/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Mohitraj27/Consistency/tree/master/0451-sort-characters-by-frequency) |
