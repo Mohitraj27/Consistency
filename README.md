@@ -27,6 +27,7 @@
 | [0075-sort-colors](https://github.com/Mohitraj27/Consistency/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Mohitraj27/Consistency/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Mohitraj27/Consistency/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0085-maximal-rectangle](https://github.com/Mohitraj27/Consistency/tree/master/0085-maximal-rectangle) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mohitraj27/Consistency/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/Mohitraj27/Consistency/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mohitraj27/Consistency/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -268,12 +269,14 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Mohitraj27/Consistency/tree/master/0005-longest-palindromic-substring) |
+| [0085-maximal-rectangle](https://github.com/Mohitraj27/Consistency/tree/master/0085-maximal-rectangle) |
 | [0119-pascals-triangle-ii](https://github.com/Mohitraj27/Consistency/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mohitraj27/Consistency/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Matrix
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Mohitraj27/Consistency/tree/master/0059-spiral-matrix-ii) |
+| [0085-maximal-rectangle](https://github.com/Mohitraj27/Consistency/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mohitraj27/Consistency/tree/master/0240-search-a-2d-matrix-ii) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/Mohitraj27/Consistency/tree/master/3415-check-if-grid-satisfies-conditions) |
 ## Simulation
@@ -358,6 +361,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mohitraj27/Consistency/tree/master/0020-valid-parentheses) |
+| [0085-maximal-rectangle](https://github.com/Mohitraj27/Consistency/tree/master/0085-maximal-rectangle) |
 ## Recursion
 |  |
 | ------- |
@@ -372,4 +376,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Mohitraj27/Consistency/tree/master/0014-longest-common-prefix) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Mohitraj27/Consistency/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
