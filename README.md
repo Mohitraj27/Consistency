@@ -24,6 +24,7 @@
 | [0049-group-anagrams](https://github.com/Mohitraj27/Consistency/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Mohitraj27/Consistency/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/Mohitraj27/Consistency/tree/master/0059-spiral-matrix-ii) |
+| [0074-search-a-2d-matrix](https://github.com/Mohitraj27/Consistency/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Mohitraj27/Consistency/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Mohitraj27/Consistency/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Mohitraj27/Consistency/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -117,6 +118,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Mohitraj27/Consistency/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Mohitraj27/Consistency/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Mohitraj27/Consistency/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/Mohitraj27/Consistency/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Mohitraj27/Consistency/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mohitraj27/Consistency/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Mohitraj27/Consistency/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -278,6 +280,7 @@
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Mohitraj27/Consistency/tree/master/0059-spiral-matrix-ii) |
+| [0074-search-a-2d-matrix](https://github.com/Mohitraj27/Consistency/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/Mohitraj27/Consistency/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mohitraj27/Consistency/tree/master/0240-search-a-2d-matrix-ii) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/Mohitraj27/Consistency/tree/master/3415-check-if-grid-satisfies-conditions) |
