@@ -347,6 +347,7 @@
 |  |
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/Mohitraj27/Consistency/tree/master/0196-delete-duplicate-emails) |
+| [1179-game-play-analysis-i](https://github.com/Mohitraj27/Consistency/tree/master/1179-game-play-analysis-i) |
 ## Bucket Sort
 |  |
 | ------- |
