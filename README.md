@@ -49,6 +49,7 @@
 | [0414-third-maximum-number](https://github.com/Mohitraj27/Consistency/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Mohitraj27/Consistency/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Mohitraj27/Consistency/tree/master/0485-max-consecutive-ones) |
+| [0500-keyboard-row](https://github.com/Mohitraj27/Consistency/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/Mohitraj27/Consistency/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Mohitraj27/Consistency/tree/master/0575-distribute-candies) |
 | [0643-maximum-average-subarray-i](https://github.com/Mohitraj27/Consistency/tree/master/0643-maximum-average-subarray-i) |
@@ -169,6 +170,7 @@
 | [0383-ransom-note](https://github.com/Mohitraj27/Consistency/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mohitraj27/Consistency/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Mohitraj27/Consistency/tree/master/0451-sort-characters-by-frequency) |
+| [0500-keyboard-row](https://github.com/Mohitraj27/Consistency/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/Mohitraj27/Consistency/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Mohitraj27/Consistency/tree/master/0575-distribute-candies) |
 | [0782-jewels-and-stones](https://github.com/Mohitraj27/Consistency/tree/master/0782-jewels-and-stones) |
@@ -210,6 +212,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Mohitraj27/Consistency/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/Mohitraj27/Consistency/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Mohitraj27/Consistency/tree/master/0451-sort-characters-by-frequency) |
+| [0500-keyboard-row](https://github.com/Mohitraj27/Consistency/tree/master/0500-keyboard-row) |
 | [0782-jewels-and-stones](https://github.com/Mohitraj27/Consistency/tree/master/0782-jewels-and-stones) |
 | [0889-buddy-strings](https://github.com/Mohitraj27/Consistency/tree/master/0889-buddy-strings) |
 | [0953-reverse-only-letters](https://github.com/Mohitraj27/Consistency/tree/master/0953-reverse-only-letters) |
