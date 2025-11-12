@@ -1,32 +1,29 @@
+import java.util.*;
+
 class Solution {
     public String[] findWords(String[] words) {
+        // Precompute row numbers for all letters (ASCII lookup)
+        int[] rows = new int[26];
+        for (char c : "qwertyuiop".toCharArray()) rows[c - 'a'] = 1;
+        for (char c : "asdfghjkl".toCharArray()) rows[c - 'a'] = 2;
+        for (char c : "zxcvbnm".toCharArray()) rows[c - 'a'] = 3;
 
-        //Brute -force approach O(N^2)
-        String row1="qwertyuiop";
-        String row2="asdfghjkl";
-        String row3="zxcvbnm";
-        List<String> list=new LinkedList<>();
-        for(String word:words){
-            int row[]=new int[3];
-            for(char ch:word.toLowerCase().toCharArray()){
-                if(row1.indexOf(ch)!=-1){
-                    row[0]=1;
-                }else if(row2.indexOf(ch)!=-1){
-                    row[1]=1;
-                }else if(row3.indexOf(ch)!=-1){
-                    row[2]=1;
+        List<String> result = new ArrayList<>();
+
+        outer: // label for continue control
+        for (String word : words) {
+            char[] chars = word.toLowerCase().toCharArray();
+            int row = rows[chars[0] - 'a'];
+
+            for (int i = 1; i < chars.length; i++) {
+                if (rows[chars[i] - 'a'] != row) {
+                    continue outer; // skip this word immediately
                 }
             }
-            int sum = row[0]+row[1]+row[2];
-            if(sum==1){
-                list.add(word);
-            }
-        }
-        String[] arr=new String[list.size()];
-        int i=0;
-        for(String word:list)
-            arr[i++]=word;
 
-        return arr;
+            result.add(word);
+        }
+
+        return result.toArray(new String[0]);
     }
 }
