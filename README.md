@@ -227,6 +227,7 @@
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Mohitraj27/Consistency/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Mohitraj27/Consistency/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2427-first-letter-to-appear-twice](https://github.com/Mohitraj27/Consistency/tree/master/2427-first-letter-to-appear-twice) |
+| [2886-faulty-keyboard](https://github.com/Mohitraj27/Consistency/tree/master/2886-faulty-keyboard) |
 | [3811-reverse-degree-of-a-string](https://github.com/Mohitraj27/Consistency/tree/master/3811-reverse-degree-of-a-string) |
 ## Sliding Window
 |  |
@@ -298,6 +299,7 @@
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Mohitraj27/Consistency/tree/master/0059-spiral-matrix-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Mohitraj27/Consistency/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2886-faulty-keyboard](https://github.com/Mohitraj27/Consistency/tree/master/2886-faulty-keyboard) |
 | [3811-reverse-degree-of-a-string](https://github.com/Mohitraj27/Consistency/tree/master/3811-reverse-degree-of-a-string) |
 ## Design
 |  |
