@@ -47,6 +47,7 @@
 | [0303-range-sum-query-immutable](https://github.com/Mohitraj27/Consistency/tree/master/0303-range-sum-query-immutable) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Mohitraj27/Consistency/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0414-third-maximum-number](https://github.com/Mohitraj27/Consistency/tree/master/0414-third-maximum-number) |
+| [0447-number-of-boomerangs](https://github.com/Mohitraj27/Consistency/tree/master/0447-number-of-boomerangs) |
 | [0455-assign-cookies](https://github.com/Mohitraj27/Consistency/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Mohitraj27/Consistency/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/Mohitraj27/Consistency/tree/master/0500-keyboard-row) |
@@ -83,6 +84,7 @@
 | [0002-add-two-numbers](https://github.com/Mohitraj27/Consistency/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Mohitraj27/Consistency/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/Mohitraj27/Consistency/tree/master/0189-rotate-array) |
+| [0447-number-of-boomerangs](https://github.com/Mohitraj27/Consistency/tree/master/0447-number-of-boomerangs) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Mohitraj27/Consistency/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Mohitraj27/Consistency/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Mohitraj27/Consistency/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -169,6 +171,7 @@
 | [0290-word-pattern](https://github.com/Mohitraj27/Consistency/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Mohitraj27/Consistency/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mohitraj27/Consistency/tree/master/0387-first-unique-character-in-a-string) |
+| [0447-number-of-boomerangs](https://github.com/Mohitraj27/Consistency/tree/master/0447-number-of-boomerangs) |
 | [0451-sort-characters-by-frequency](https://github.com/Mohitraj27/Consistency/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/Mohitraj27/Consistency/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/Mohitraj27/Consistency/tree/master/0560-subarray-sum-equals-k) |
