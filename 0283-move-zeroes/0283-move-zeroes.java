@@ -1,25 +1,15 @@
 class Solution {
-    public void moveZeroes(int[] nums) {
-        
-        
-        //Using Two pointer approach
-        
-        int j=0;
-        //Iterating the jth pointer through each elements
-        for(int i=0;i<nums.length;i++)
+    public void moveZeroes(int[] arr) {
+        int low=0;
 
-        {
-            
-            if(nums[i]!=0)
-            {
-                
-                nums[j++]=nums[i];
-            }
-        
+        for(int i=0;i<arr.length;i++){
+
+        if(arr[i]!=0){
+            int temp = arr[i];
+            arr[i]=arr[low];
+            arr[low]=temp;
+            low++;
         }
-        
-        while(j<nums.length)
-            nums[j++]=0;
-        
         }
+    }
 }
