@@ -55,6 +55,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Mohitraj27/Consistency/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Mohitraj27/Consistency/tree/master/0575-distribute-candies) |
 | [0643-maximum-average-subarray-i](https://github.com/Mohitraj27/Consistency/tree/master/0643-maximum-average-subarray-i) |
+| [0665-non-decreasing-array](https://github.com/Mohitraj27/Consistency/tree/master/0665-non-decreasing-array) |
 | [0792-binary-search](https://github.com/Mohitraj27/Consistency/tree/master/0792-binary-search) |
 | [0966-binary-subarrays-with-sum](https://github.com/Mohitraj27/Consistency/tree/master/0966-binary-subarrays-with-sum) |
 | [1019-squares-of-a-sorted-array](https://github.com/Mohitraj27/Consistency/tree/master/1019-squares-of-a-sorted-array) |
