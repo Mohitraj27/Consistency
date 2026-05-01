@@ -75,6 +75,7 @@
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Mohitraj27/Consistency/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/Mohitraj27/Consistency/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Mohitraj27/Consistency/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Mohitraj27/Consistency/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Mohitraj27/Consistency/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/Mohitraj27/Consistency/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Mohitraj27/Consistency/tree/master/3644-minimum-positive-sum-subarray) |
